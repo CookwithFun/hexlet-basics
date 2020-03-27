@@ -1,0 +1,18 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+     <meta name="description" content="My first page">
+    <title>Title</title>
+</head>
+<body>
+<u> Hi all</u>
+<ul>
+    <li> one </li>
+    <li> <b> two </b></li>
+    <li> <a href = "https://www.novatek.pl/"> Link Novatek </a>  </li>
+    
+
+
+</body>
+</html>                                                              
